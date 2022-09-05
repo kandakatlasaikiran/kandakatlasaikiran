@@ -1,4 +1,3 @@
-[![MasterHead](https://cutshort.io/blog/wp-content/uploads/2018/04/bd1e5c2457278a37313c55ce8c887aa3.jpg)](https://kandakatlasaikiran.io)
 <h1 align="center">Hi 👋, I'm saikiran kandakatla</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt ="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
